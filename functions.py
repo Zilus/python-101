@@ -17,5 +17,6 @@ def square(n1, n2):
 my_fn()
 result = add(n2=1, n1=2)
 print result
+#unpacking -> two returs
 result1, result2 = square(1, 2)
 print result1, result2
